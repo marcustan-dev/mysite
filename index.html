@@ -2,9 +2,15 @@
 layout: default
 title: Marcus Tan's Website
 ---
-<!-- link to main stylesheet -->
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<div class="blurb">
-	<h1>Hi there, I'm Hank Quinlan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+
+<div id="site">
+	{% include switch.html %}
+	{% include intro.html %}
+	{% include background.html %}
+	{% include skills.html %}
+	{% include experience.html %}
+	{% include featured-projects.html %}
+	{% include other-projects.html %}
+	{% include footer.html %}
+	{% include top-button.html %}
+</div>
