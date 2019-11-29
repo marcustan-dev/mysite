@@ -3,7 +3,7 @@ title: Marcus Tan's Website
 description: Blah blah blah
 email: marcus@mtss.dev
 url: https://github.com/marcustan-dev/mysite
-baseurl: ''
+baseurl: 'mysite'
 logo: https://avatars1.githubusercontent.com/u/54130573
 cover: https://avatars1.githubusercontent.com/u/54130573
 resume: https://avatars1.githubusercontent.com/u/54130573
