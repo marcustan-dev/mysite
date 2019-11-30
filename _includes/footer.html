@@ -6,13 +6,13 @@
     <div class="bottom">
       <span>Marcus Tan</span>
       <img class="emoji" src="/mysite/img/emojis/rockon.png" alt="emoji">
-      <span>2018</span>
+      <span>2019</span>
     </div>
   </div>
   <div class="footer__links">
     {% for link in site.social %}
     <a href="{{ link.url }}" target="_blank" title="{{ link.title }}">
-      <span class="text">{{link.title}}</span>
+      <span class="text">{{ link.title }}</span>
       <img src="/mysite/img/social/{{ link.title }}.svg" alt="{{ link.title }}">
     </a>
     {% endfor %}
