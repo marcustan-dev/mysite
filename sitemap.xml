@@ -6,8 +6,11 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>https://github.com/marcustan-dev/mysite</loc>
-  <lastmod>2019-11-30T00:07:11+00:00</lastmod>
+  <loc>https://marcustan-dev.github.io/mysite/</loc>
+  <lastmod>2019-11-30T04:41:27+00:00</lastmod>
 </url>
+
+
 </urlset>
